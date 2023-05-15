@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleShop", "LittleShop\LittleShop.csproj", "{BD2BF7B7-9370-42B8-A2DD-7D7AD7AD6E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleShop_Tests", "LittleShop_Tests\LittleShop_Tests.csproj", "{763F332F-274D-4156-B2B6-E7BDC4BF3A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2BF7B7-9370-42B8-A2DD-7D7AD7AD6E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2BF7B7-9370-42B8-A2DD-7D7AD7AD6E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2BF7B7-9370-42B8-A2DD-7D7AD7AD6E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2BF7B7-9370-42B8-A2DD-7D7AD7AD6E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763F332F-274D-4156-B2B6-E7BDC4BF3A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763F332F-274D-4156-B2B6-E7BDC4BF3A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763F332F-274D-4156-B2B6-E7BDC4BF3A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763F332F-274D-4156-B2B6-E7BDC4BF3A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C1B7D2C-CAD3-47C6-A9E5-771B333142DC}
+	EndGlobalSection
+EndGlobal
